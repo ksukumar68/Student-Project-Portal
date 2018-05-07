@@ -1,0 +1,38 @@
+/* body{
+  background-image: url("background.png");
+  background-size: cover;
+} */
+.dropdown-toggle::after {
+    display:none;
+}
+
+h3{
+
+    text-align: center;
+}
+ label{
+    color: #FFFFFF;
+}
+li{
+  padding-left: 30px;
+}
+h1.welcome{
+  color: green;
+}
+.error{
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #f2dede;
+  color: #a94442;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+}
+.main{
+  padding-left: 25%;
+padding-right: 25%;
+}
+.student_list{
+  
+}
